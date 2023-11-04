@@ -1,4 +1,5 @@
-# map-challenge-2023
+# 30 day map challenge 2023
+https://30daymapchallenge.com/
 
 ### Day 1 - Points
 (nothing)
