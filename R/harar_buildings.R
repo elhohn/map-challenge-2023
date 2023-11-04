@@ -1,4 +1,3 @@
-# Install and load the required packages
 #ee_install()
 library(rgee)
 library(ggplot2)
